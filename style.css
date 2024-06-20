@@ -20,13 +20,13 @@ h2{
     padding:10px;
     
 }
-label{
+.input-container label{
     color:rgb(245, 118, 7);
     font-size: 18px;
     font-weight: bold;
     margin-left: 20px;
 }
-input{
+.input-container input[type="number"], .input-container input[type="date"]{
     padding: 10px;
     margin-right: 15px;
 }
