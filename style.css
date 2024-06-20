@@ -12,6 +12,9 @@ h2{
 }
 
 .input-container{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
     background-color: rgb(247, 225, 125);
     align-items: center;
     padding:10px;
